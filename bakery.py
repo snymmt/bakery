@@ -1,9 +1,7 @@
 import streamlit as st
 import numpy as np
 import time
-import streamlit as st
-import numpy as np
-import time
+
 
 st.title("生駒ベーカリー　クーポンアプリ")
 name = st.sidebar.text_input("会員名を入力してください")
